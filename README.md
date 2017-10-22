@@ -1,0 +1,2 @@
+# gzip
+GZIP file format
