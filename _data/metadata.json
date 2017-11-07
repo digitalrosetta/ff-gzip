@@ -1,0 +1,12 @@
+{
+  "title": "GZIP",
+  "description": "GZIP compressed files",
+  "extention": "gz",
+  "contenttype": "application/gzip",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gzip",
+  "website": "https://www.gnu.org/software/gzip/",
+  "category": [
+    "container",
+    "compressed"
+  ]
+}
